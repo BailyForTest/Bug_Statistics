@@ -27,13 +27,13 @@ def get_Version():
 
 
 def get_Project():
-    Project = {"AC_AndroidPad_": ["马李鑫", "徐铁鹏", "尤灵刚", "黄文鸽"],
-               "AC_AndroidPhone_": ["马李鑫", "徐铁鹏", "尤灵刚", "黄文鸽"],
-               "AC_iPhone_": ["周松", "俞立荣"],
-               "AC_iPad_": ["龚慧超", "张津铭"],
-               "AC_Windows_": ["王财坡", "陈明泉"],
-               "AC_Background_": ["郭栋梁", "黄章明"],
-               "AC_H5_": ["曾杨平"]}
+    Project = {"AC_AndroidPad_": [""],
+               "AC_AndroidPhone_": [""],
+               "AC_iPhone_": [""],
+               "AC_iPad_": [""],
+               "AC_Windows_": [""],
+               "AC_Background_": [""],
+               "AC_H5_": [""]}
     return Project
 
 if __name__ == "__main__":
